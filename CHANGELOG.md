@@ -1,6 +1,6 @@
 # MiniClicker
 
-https://github.com/Tsukage0/clicker
+https://github.com/Tsukage0/MiniClicker
 
 # v1.1.1
 
