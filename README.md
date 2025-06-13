@@ -14,7 +14,7 @@ C'est une petite fenêttre où il y a :
 
 Seulement 3 amélioration (pour l'instant) :
 - Auto-clicker : 1 point tout les 5 secondes
-- Réduction du Temps : Diminue de 10% la duré entre les clicks des auto-clicker
+- Réduction du Temps : Diminue de 10% la duré entre les clicks des auto-clicker (niveau max théorique 130%, car après ça il n'y a plus aucun changement)
 - Plus de click : ajoute 1 point a chaque auto-clicker
 
 ## Installation
