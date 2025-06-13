@@ -15,6 +15,7 @@ https://github.com/Tsukage0/clicker
 - Le fichier `.json` n'ai plus présent dans le dossier avec le `.exe`, il sera dans le dossier `C:\Users\<USER>\AppData\Roaming\MiniClicker`, sous le nom `save.dat` et il est aussi encrypter en base 64, ce n'est pas grand-chose, mais c'est pour une expérience juste :)
 - Le calcul derrière la vitesse a été changé (je me suis trompé sur le calcul du coup, ça allait beaucoup trop vite.) et maintenant le max, c'est `+650%` et cela bloque l'amélioration.
 - Nom shop : `Acheter Auto-Clicker` -> `Auto-Clicker`
+- Les nombres sont maintenant en groupe de 3 (ex : 1 000 000)
 
 L'augmentation des prix dans le shop :
 - Auto-Clicker : augmentation du prix de `5%` -> `10%` à chaque amélioration.
