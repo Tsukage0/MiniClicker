@@ -4,7 +4,7 @@ https://github.com/Tsukage0/clicker
 
 # v1.1.1
 
-Modification du code, car le `Change Log` n'êtais pas trouver.
+Modification du code, car le `Change Log` n'étais pas trouver.
 
 
 # v1.1
