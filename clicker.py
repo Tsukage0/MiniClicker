@@ -20,7 +20,7 @@ speed_cost_incr = 1.20
 plus_click = 0
 plus_click_cost = 500
 plus_click_cost_incr = 1.50
-version = 1.1
+version = "1.1.1"
 shop_window = None
 change_log_window = None
 
@@ -302,7 +302,7 @@ def open_change_log():
 
     # Charger le texte depuis le fichier Markdown
     try:
-        with open("CHANGELOG.md", "r", encoding="utf-8") as f:
+        with open(resource_path("CHANGELOG.md"), "r", encoding="utf-8") as f:
             changelog_text = f.read()
     except FileNotFoundError:
         changelog_text = "Le fichier CHANGELOG.md est introuvable."

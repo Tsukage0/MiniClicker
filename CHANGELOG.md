@@ -2,6 +2,11 @@
 
 https://github.com/Tsukage0/clicker
 
+# v1.1.1
+
+Modification du code, car le `Change Log` n'êtais pas trouver.
+
+
 # v1.1
 
 ## Ajout
@@ -32,6 +37,7 @@ L'augmentation des prix dans le shop :
 
 Première version de l'app. C'est juste un clicker assez simple, mais c'est un petit projet que j'avais envie de faire avec Python et PyInstaller.
 
+
 ## Présentation
 
 C'est une petite fenêtre où il y a :
@@ -44,6 +50,7 @@ Seulement 3 améliorations (pour l'instant) :
 - Auto-clicker : 1 point toutes les 5 secondes
 - Réduction du Temps : Diminue de 10% la durée entre les clics des auto-clickers (niveau max théorique 130%, car après ça il n'y a plus aucun changement)
 - Plus de click : ajoute 1 point à chaque auto-clicker
+
 
 ## Installation
 
